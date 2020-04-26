@@ -1,6 +1,6 @@
 apt-get update
-apt-get install -y vim python3 python3-pip git
-pip3 install cython pycuda
+apt-get install -y vim python3 python3-pip git libsm6 libxext6 libxrender-dev
+pip3 install cython pycuda opencv-python==4.1.1.26
 
 cd /root
 pip3 install torch-1.2.0-cp36-cp36m-manylinux1_x86_64.whl

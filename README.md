@@ -17,6 +17,8 @@ torch 1.2.0
 
 torchvision 0.4.0
 
+opencv 4.1.1
+
 etc.
 
 
@@ -65,7 +67,7 @@ etc.
 
 ## TODO
 
-- [ ] opencv
+- [x] opencv
 
 
 
